@@ -1,0 +1,12 @@
+{
+  "name": "dayjs-playground",
+  "version": "1.0.0",
+  "description": "A simple project demonstrating dayjs usage",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dayjs": "1.11.7"
+  }
+} 
